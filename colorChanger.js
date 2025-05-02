@@ -1,3 +1,3 @@
-let button = document.querySelector("#changer");
-let box = document.querySelector("boxer");
+let button = document.querySelector("colorButton");
+let box = document.querySelector("colorBox");
 
