@@ -6,4 +6,4 @@ button.addEventListener("click", function() {
  
 });
 
- box.style.backgroundColor = "#blue";
+ box.style.backgroundColor = #blue;
